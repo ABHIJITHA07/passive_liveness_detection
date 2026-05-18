@@ -279,7 +279,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-Developed by **Sahana**
+Developed by **Abhijitha G S**
 
 ---
 
